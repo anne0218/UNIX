@@ -1,182 +1,185 @@
-a/an (det)
-ability (n)
-able (adj)
-about (adv & prep)
-above (adj, adv & prep)
-abroad (adv)
-absent (adj)
-absolutely (adv)
-awful.
-accent(n)
-accent.
-accept (v)
-access (n)
-accident (n)
-accommodation (n)
-accompany (v)
-according to (prep phr)
-account (n)
-accountant (n)
-accurate (adj)
-ache (n)
-achieve (v)
-across (adv & prep)
-act (n & v)
-action (n)
-active (adj)
-activity (n)
-actor (n)
-actress (n)
-actually (adv)
-ad (advertisement) (n)
-add (v)
-addition (n)
-address (n)
-admire (v)
-admission (n)
-admit (v)
-adult (adj & n)
-advance (n)
-advanced (adj)
-advantage (n)
-adventure (n)
-advert (n)
-advertise (v)
-advertisement (n)
-advice (n)
-advise (v)
-aeroplane (n)
-afford (v)
-afraid (adj)
-after (adv,conj & prep)
-afternoon (n)
-afterwards (adv)
-again (adv)
-against (prep)
-age (n)
-aged(adj)
-agency (n)
-ago (adv)
-agree (v)
-ahead (adv)
-aim (n & v)
-air (n)
-air conditioning (n)
-air force (n)
-airline (n)
-airport (n)
-alarm (n)
-alarm clock (n)
-album (n)
-alike (adv)
-alive (adj)
-all (adj, adv, det & pron)
-all right/alright (adj,adv & exclam)
-allow (v)
-almost (adv)
-alone (adv & adj)
-along (adv & prep)
-aloud (adv)
-alphabet (n)
-already (adv)
-also (adv)
-although (conj)
-altogether (adv)
-always (adv)
-a.m (adv)
-amazed (adj)
-amazing (adj)
-ambition (n)
-ambulance (n)
-among (amongst) (prep)
-amount (n)
-amusing (adj)
-an (det)
-ancient (adj)
-and (conj)
-angry (adj)
-animal (n)
-ankle (n)
-anniversary (n)
-announce (v)
-announcement (n)
-annoy (v)
-annual (adj)
-another (det & pron)
-answer (n & v)
-answerphone (n)
-ant (n)
-antique (adj & n)
-anxious (adj)
-any (det & pron)
-anybody (pron)
-anymore (adv)
-anyone (pron)
-anything (pron)
-anyway (adv)
-anywhere (adv)
-apart (adv)
-apart from (adv)
-apartment (n)
-apartment building (n)
-apologise (v)
-apology (n)
-appear (v)
-appearance (n)
-apple (n)
-application (n)
-apply (v)
-appointment (n)
-approach (v)
-approve (v)
-architect (n)
-architecture (n)
-area (n)
-argue (v)
-argument (n)
-arm (n)
-armchair (n)
-army (n)
-around (adv & prep)
-arrange (v)
-arrangement (n)
-arrest (v)
-arrival (n)
-arrive (v)
-art (n)
-article (n)
-artist (n)
-as (conj & prep)
-ashamed (adj)
-ask (v)
-asleep (adj)
-aspirin (n)
-assistant(n)
-as well (as) (prep & adv)
-at (prep)
+a
+an
+ability
+able 
+about 
+above 
+abroad 
+absent 
+absolutely 
+awful
+accent
+accent
+accept
+access 
+accident 
+accommodation
+accompany 
+according to 
+account 
+accountant 
+accurate
+ache
+achieve 
+across 
+act 
+action 
+active 
+activity
+actor 
+actress 
+actually
+ad
+advertisement
+add
+addition 
+address 
+admire
+admission
+admit 
+adult 
+advance 
+advanced 
+advantage
+adventure 
+advert 
+advertise 
+advertisement 
+advice 
+advise 
+aeroplane 
+afford 
+afraid 
+after
+afternoon 
+afterwards 
+again 
+against
+age
+aged
+agency
+ago 
+agree 
+ahead 
+aim 
+air 
+air conditioning 
+air force 
+airline 
+airport 
+alarm
+alarm clock
+album 
+alike 
+alive 
+all
+all right
+alright
+allow 
+almost 
+alone 
+along 
+aloud 
+alphabet 
+already 
+also 
+although 
+altogether 
+always
+a.m 
+amazed 
+amazing 
+ambition 
+ambulance 
+among 
+amount 
+amusing 
+an 
+ancient 
+and
+angry 
+animal 
+ankle 
+anniversary 
+announce 
+announcement
+annoy
+annual
+another
+answer
+answerphone 
+ant
+antique
+anxious
+any
+anybody
+anymore
+anyone
+anything 
+anyway 
+anywhere 
+apart 
+apart from 
+apartment
+apartment building 
+apologise 
+apology 
+appear 
+appearance
+apple 
+application
+apply 
+appointment 
+approach 
+approve 
+architect 
+architecture 
+area 
+argue 
+argument 
+arm 
+armchair 
+army 
+around
+arrange 
+arrangement
+arrest 
+arrival 
+arrive 
+art 
+article 
+artist 
+as 
+ashamed 
+ask
+asleep 
+aspirin 
+assistant
+as well
+at 
 at
-at all (prep phr)
-at first (prep phr)
-athlete (n)
-athletics (n)
-at last (prep phr)
-at least (prep phr)
-atmosphere (n)
-at once (prep phr)
-at present (prep phr)
-attach (v)
-attack (n & v)
-attempt (v)
-attend (v)
-attention (n)
-at the same time (prep phr)
-attitude (n)
-attract (v)
-attraction (n)
-attractive (adj)
-audience (n)
-aunt (n)
-author (n)
+at all
+at first 
+athlete 
+athletics 
+at last 
+at least 
+atmosphere 
+at once 
+at present 
+attach 
+attack
+attempt 
+attend 
+attention 
+at the same time 
+attitude 
+attract 
+attraction 
+attractive 
+audience 
+aunt 
+author 
 autumn
 available (adj)
 average (adj & n)
@@ -2024,7 +2027,7 @@ post office (n)
 postpone (v)
 pot (n)
 potato (n)
-pound (¢G) (n)
+pound (Â¢G) (n)
 pour (v)
 powder (n)
 power (n)
@@ -2789,11 +2792,11 @@ unbelievable (adj)
 uncle (n)
 uncomfortable (adj)
 under (prep)
-¡E under the bed
-¡E under ¢G10.00
+Â¡E under the bed
+Â¡E under Â¢G10.00
 underground (adj & n)
-¡E underground trains (adj)
-¡E to travel by underground (n)
+Â¡E underground trains (adj)
+Â¡E to travel by underground (n)
 underline (v)
 underneath (prep)
 underpants (n)
