@@ -181,234 +181,233 @@ audience
 aunt 
 author 
 autumn
-available (adj)
-average (adj & n)
-avoid (v)
-awake (adj)
-away (adv)
-awful (adj)
-baby (n)
-babysit (v)
-babysitter (n)
-back (adv, adj & n)
-background (n)
-backpack (n)
-backpacker (n)
-backpacking (n)
-backwards (adv)
-bad (adj)
-badly (adv)
-badminton (n)
-bag (n)
-baggage (n)
-bake (v)
-baker (n)
-balcony (n)
-bald (adj)
-ball (n)
-ballet (n)
-balloon (n)
-banana (n)
-band (n)
-bandage (n)
-bank (n)
-bank account (n)
-banking (n)
-bar (n)
-barbecue (n & v)
-baseball (n)
-base on (phr v)
-basic (adj)
-basin (n)
-basket (n)
-basketball (n)
-bat (n)
-bath (n & v)
-bathing suit (n)
-bathroom (n)
-bathtub (n)
-battery (n)
-battle (n)
-bay (n)
-be (av & v)
-beach (n)
-bean (n)
-bear(n)
-beard (n)
-beat (v)
-beautiful (adj)
-beauty (n)
-because (conj)
-because of (prep phr)
-become (v)
-bed (n)
-bedroom (n)
-bee (n)
-beef (n)
-before (prep,adv & conj)
-begin (v)
-beginner (n)
-beginning (n)
-behave (v)
-behaviour (n)
-behind (prep & adv)
-believe (v)
-bell(n)
-belong (v)
-below (adv & prep)
-belt (n) beneath (prep)
-benefit (n)
-be over (phr v)
-beside (adv & prep)
-besides (prep)
-best (adj & adv)
-better (adj & adv)
-between (prep & adv)
-beyond (prep & adv)
-bicycle (n)
-big (adj)
-bike (n)
-bill (n)
-bin (n)
-biography (n)
-biology (n)
-bird (n)
-birth (n)
-birthday (n)
-biscuit (n)
-bit (n)
-bite (v)
-bitter (adj)
-black (adj & n)
-blackboard (n)
-blame (v)
-blank (adj)
-blanket (n)
-bleed (v)
-blind (adj)
-block (n)
-block?
-blog (n)
-blogger(n)
-blond(e) (adj)
-blood (n)
-blouse (n)
-blow (v)
-blue (adj & n)
-board (n & v)
-board game (n)
-boarding pass (n)
-boat (n)
-body (n)
-boil (v)
-boiled (adj)
-bold (adj)
-bomb (n & v)
-bone (n)
-book (n & v)
-bookcase (n)
-booking (n)
-booking office(n)
-bookshelf(n)
-bookshop (n)
-bookstore (n)
-boot (n)
-border (n)
-bored (adj)
-boring (adj)
-born (adj)
-borrow (v)
-boss (n)
-both (pron & det)
-bother (v)
-bottle (n)
-bottom (adj & n)
-bowl (n)
-box (n)
-boy (n)
-boyfriend (n)
-bracelet (n)
-brain (n)
-brake (n & v)
-branch (n)
-brand new (adj)
-brave (adj)
-bread (n)
-break (n & v)
-break down (phr v)
-breakfast (n)
-break in (phr v)
-the computer.
-break up (phr v)
-breath (n)
-breathe(v)
-breeze (n)
-bride (n)
-bridge (n)
-brief (adj)
-bright (adj)
-brilliant (adj)
-bring (v)
-bring up (phr v)
-broad (adj)
-broccoli (n)
-brochure (n)
-broken (adj)
-brother (n)
-brown (adj & n)
-brush (n & v)
-bucket (n)
-bug (n)
-build (v)
-building (n)
-bulb (n)
-bull (n)
-bunch (n)
-burger (n)
-burn (v)
-burning (adj)
-bury (v)
-bus (n)
-business (n)
-businessman (n)
-businesswoman (n)
-bus station (n)
-bus stop (n)
-busy (adj)
-but (conj & prep)
-butcher (n)
-butter (n)
-butterfly (n)
-button (n)
-buy (v)
-buyer (n)
-by (prep)
-by accident (prep phr)
-bye (exclam)
-by hand (prep phr)
-by mistake (prep phr)
-by name (prep phr)
-cab (n)
-cabbage (n)
-cabin (n)
-cabinet (n)
-cable (n)
-cafe (n)
-cafeteria (n)
-cage (n)
-cake (n)
-calculator (n)
-calendar(n)
-calf (n)
-call (n & v)
-call for (phr v)
-call in (phr v)
-calm (adj)
-camel (n)
-camera (n)
-camp (n & v)
-camping (n)
-campsite (n)
+available 
+average
+avoid 
+awake 
+away 
+awful 
+baby 
+babysit 
+babysitter
+back 
+background
+backpack
+backpacker 
+backpacking 
+backwards 
+bad 
+badly 
+badminton 
+bag 
+baggage 
+bake 
+baker 
+balcony 
+bald
+ball 
+ballet 
+balloon 
+banana 
+band
+bandage 
+bank 
+bank account 
+banking 
+bar
+barbecue 
+baseball 
+base on 
+basic 
+basin 
+basket 
+basketball 
+bat 
+bath 
+bathing suit 
+bathroom 
+bathtub
+battery 
+battle 
+bay 
+be 
+beach 
+bean 
+bear
+beard
+beat
+beautiful 
+beauty 
+because 
+because of 
+become 
+bed 
+bedroom 
+bee 
+beef 
+before 
+begin 
+beginner 
+beginning 
+behave 
+behaviour 
+behind 
+believe 
+bell
+belong 
+below 
+belt 
+beneath 
+benefit 
+be over 
+beside 
+besides 
+best 
+better 
+between 
+beyond 
+bicycle 
+big 
+bike 
+bill 
+bin 
+biography 
+biology 
+bird 
+birth 
+birthday 
+biscuit 
+bit 
+bite 
+bitter 
+black 
+blackboard 
+blame 
+blank 
+blanket 
+bleed 
+blind 
+block 
+blog
+blogger
+blond
+blood
+blouse 
+blow 
+blue 
+board 
+board game 
+boarding pass 
+boat 
+body
+boil
+boiled 
+bold 
+bomb 
+bone 
+book 
+bookcase 
+booking 
+booking office
+bookshelf
+bookshop 
+bookstore 
+boot 
+border 
+bored 
+boring 
+born
+borrow 
+boss 
+both 
+bother 
+bottle 
+bottom 
+bowl 
+box 
+boy 
+boyfriend 
+bracelet 
+brain 
+brake 
+branch 
+brand new 
+brave 
+bread 
+break
+break down 
+breakfast 
+break in 
+break up 
+breath 
+breathe
+breeze 
+bride 
+bridge 
+brief 
+bright 
+brilliant 
+bring 
+bring up 
+broad
+broccoli 
+brochure 
+broken 
+brother 
+brown 
+brush 
+bucket 
+bug 
+build
+building 
+bulb
+bull
+bunch
+burger 
+burn 
+burning 
+bury
+bus 
+business 
+businessman 
+businesswoman 
+bus station 
+bus stop 
+busy 
+but 
+butcher 
+butter
+butterfly
+button 
+buy 
+buyer 
+by 
+by accident 
+bye 
+by hand 
+by mistake 
+by name 
+cab 
+cabbage 
+cabin 
+cabinet 
+cable 
+cafe 
+cafeteria 
+cage 
+cake 
+calculator 
+calendar
+calf 
+call
+call for 
+call in
+calm 
+camel 
+camera 
+camp 
+camping 
+campsite 
 can (n & mv)
 canal (n)
 cancel (v)
