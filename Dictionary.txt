@@ -408,2263 +408,2236 @@ camera
 camp 
 camping 
 campsite 
-can (n & mv)
-canal (n)
-cancel (v)
-candidate (n)
-candle (n)
-candy (n)
-canteen (n)
-cap (n)
-capital (adj & n)
-captain (n)
-car(n)
-card (n)
-cardboard (adj & n)
-care (n & v)
-career (n)
-careful (adj)
-carefully (ad)
-careless (adj)
+can 
+canal 
+cancel 
+candidate 
+candle 
+candy 
+canteen 
+cap 
+capital 
+captain 
+car
+card 
+cardboard 
+care 
+career
+careful 
+carefully 
+careless 
 car park
-carpet (n)
-carrot (n)
-carry (v)
-carry on (phr v)
-carry out (phr v)
-cartoon (n)
-case (n)
-case.
-cash (n)
-cashpoint (n)
-castle (n)
-casual (adj)
-cat (n)
-catch (v)
-cathedral (n)
-cattle (n)
-cave (n)
-CD (n)
-CD player (n)
-CD-Rom (n)
-ceiling (n)
-celebrate (v)
-celebration (n)
-celebrity (n)
-cell phone (n)
-cent (n)
-centimetre I centimeter (em) (n)
-central (adj)
-central heating (n)
-centre/center (n)
-century (n)
-cereal (n)
-ceremony (n)
-certain (adj)
-certainly (not) (adv)
-certificate (n)
-chain (n)
-chair (n)
-challenge (n)
-challenging (adj)
-champion (n)
-championship (n)
-chance (n)
-change (n & v)
-changing room (n)
-channel (n)
-chapter (n)
-character (n)
-charge (n & v)
-charity (n)
-charming (adj)
-chat (n)
-chatroom (n)
-chat show (n) (Br Eng) (Am Eng:
-talk show)
-cheap (adj)
-cheat (v)
-check (n & v)
-check in (phr v)
-check-in (n)
-check out (phr v)
-checkout (n)
-cheek (n)
-cheerful (adj)
-cheers! (exclam)
-cheese (n)
-chef (n)
-chemist (n)
-chemistry (n)
-cheque (n)
-chess(n)
-chest of drawers (n)
-chicken (n)
-child (n)
-childhood (n)
-chilli (n)
-chin (n)
-chip (n)
-chocolate (n)
-choice (n)
-choose (v)
-cinema (n)
-circle (n)
-circus (n)
-city (n)
-clap (v)
-class (n)
-classical (adj)
-classmate (n)
-classroom (n)
-clean (adj & v)
-cleaner (n)
-clear (adj & v)
-clearly (adv)
-clever (adj)
-click (n & v)
-cliff (n)
-climate (n)
-climb (v)
-climbing (n)
-clinic (n)
-clock (n)
-close (adj, adv & v)
-closed (adj)
-clothes (n pi)
-cloud (n)
-cloudy (adj)
-clown (n)
-club (n)
-coach (n)
-coast (n)
-coat (n)
-coconut (n)
-cod (n)
-coffee (n)
-coin (n)
-cola (n)
-cold (adj & n)
-collar (n)
-colleague (n)
-collect (v)
-collection (n)
-college (n)
-colour (n & v)
-colourful (adj)
-comb (n &v)
-come (v)
-comedy (n)
-come on (phr v)
-comfort (n)
-comfortable (adj)
-comic (adj & n)
-comma (n)
-common (adj)
-communicate (v)
-communication (n)
-company (n)
-compare (v)
-compete (v)
-competition (n)
-competitor (n)
-complain (v)
-complaint (n)
-complete (adj & v)
-complicated (adj)
-composition (n)
-computer (n)
-concentrate (v)
-concert (n)
-conclusion (n)
-condition (n)
-conference (n)
-confident(adj)
-confirm(v)
-confused (adj)
-confusing (adj)
-congratulations! (exclam)
-connect (v)
-connection (n)
-consider (v)
-consist (v)
-consonant (n)
-contact (n & v)
-contain (v)
-contents (n)
-contest (n)
-continent (n)
-continue (v)
-contract (n)
-control (n & v)
-convenient (adj)
-conversation (n)
-convince (v)
-cook (n & v)
-cooker (n)
-cookie (n)
-cooking (n)
-cool (adj, exclam & v)
-copy (n & v)
-corn (n)
-corner (n)
-correct (adj)
-correction (n)
-cost (n & v)
-costume (n)
-costume.
-cosy (adj)
-cottage (n)
-cotton (n)
-cough (n & v)
-could (mv)
-count (v)
-country (n)
-countryside (n)
-couple (n)
-courage (n)
-course (n)
-court (n)
-cousin (n)
-cover (n & v)
-cow (n)
-crash (n & v)
-crazy (adj)
-cream (adj & n)
-create (v)
-creative (adj)
-creature (n)
-credit (n)
-credit card (n)
-crew (n)
-cricket (n)
-crime (n)
-criminal (n)
-crop (n)
-cross (n & v)
-crossing (n)
-cross out (phr v)
-crossroads (n)
-crowd (n)
-crowded (adj)
-cruel (adj)
-cruise (n)
-cry (n & v)
-cucumber (n)
-cultural (adj)
-culture (n)
-cup (n)
-cupboard (n)
-cure (n & v)
-curious (adj)
-curiously (adv)
-curiously.
-curly (adj)
-currency (n)
-curriculum (n)
-curry (n)
-curtain (n)
-cushion (n)
-custom (n)
-customer (n)
-customs (n pi)
-cut (n & v)
-cute (adj)
-cut up (phr v)
-small pieces.
+carpet 
+carrot 
+carry
+carry on 
+carry out 
+cartoon 
+case 
+cash 
+cashpoint 
+castle
+casual 
+cat 
+catch 
+cathedral 
+cattle 
+cave 
+CD 
+CD player 
+CD-Rom 
+ceiling 
+celebrate 
+celebration 
+celebrity 
+cell phone 
+cent 
+centimetre
+central 
+central heating
+centre
+center 
+century 
+cereal 
+ceremony 
+certain 
+certainly 
+certificate 
+chain 
+chair 
+challenge 
+challenging 
+champion 
+championship 
+chance 
+change 
+changing room 
+channel 
+chapter 
+character 
+charge 
+charity 
+charming 
+chat 
+chatroom 
+chat show 
+cheap
+cheat 
+check 
+check in 
+check-in 
+check out 
+checkout
+cheek
+cheerful 
+cheers
+cheese
+chef 
+chemist
+chemistry
+cheque 
+chess
+chest of drawers 
+chicken 
+child 
+childhood 
+chilli 
+chin 
+chip 
+chocolate 
+choice 
+choose 
+cinema 
+circle 
+circus 
+city 
+clap 
+class 
+classical 
+classmate 
+classroom 
+clean 
+cleaner 
+clear 
+clearly 
+clever 
+click
+cliff 
+climate 
+climb 
+climbing 
+clinic 
+clock 
+close 
+closed 
+clothes 
+cloud 
+cloudy 
+clown 
+club 
+coach 
+coast 
+coat 
+coconut 
+cod
+coffee 
+coin
+cola 
+cold 
+collar 
+colleague 
+collect 
+collection 
+college 
+colour
+colourful
+comb 
+come 
+comedy
+come on 
+comfort 
+comfortable 
+comic 
+comma
+common 
+communicate 
+communication 
+company 
+compare 
+compete
+competition 
+competitor 
+complain
+complaint 
+complete 
+complicated 
+composition 
+computer
+concentrate 
+concert 
+conclusion 
+condition 
+conference 
+confident
+confirm
+confused 
+confusing 
+congratulations
+connect
+connection
+consider 
+consist 
+consonant 
+contact 
+contain 
+contents 
+contest 
+continent 
+continue 
+contract 
+control 
+convenient 
+conversation 
+convince
+cook
+cooker 
+cookie 
+cooking 
+cool 
+copy 
+corn 
+corner 
+correct 
+correction 
+cost 
+costume 
+cosy 
+cottage 
+cotton 
+cough 
+could 
+count 
+country 
+countryside 
+couple
+courage
+course 
+court 
+cousin 
+cover 
+cow 
+crash 
+crazy 
+cream 
+create 
+creative 
+creature 
+credit 
+credit card
+crew 
+cricket 
+crime 
+criminal 
+crop 
+cross 
+crossing 
+cross out 
+crossroads 
+crowd 
+crowded 
+cruel 
+cruise 
+cry 
+cucumber 
+cultural 
+culture 
+cup
+cupboard 
+cure 
+curious 
+curiously 
+curly
+currency 
+curriculum 
+curry
+curtain 
+cushion 
+custom 
+customer 
+customs 
+cut 
+cute
+cut up 
 CV
 Curriculum Vitae
-cycle (n & v)
-cycling (n)
-cyclist (n)
-dad (n)
-daily (adj & adv)
-damage (n & v)
-damaged (adj)
-dance (n & v)
-dancer (n)
-dancing (n)
-danger (n)
-dangerous (adj)
-dark (adj & n)
-date (n & v)
-daughter (n)
-day (n)
-dead(adj)
-deaf (adj)
-deal (v)
-deal with (sth) (phr v)
-deal with.
-dear (adj & exclam)
-death (n)
-decide (v)
-decision (n)
-declare (v)
-decorate (v)
-decrease (n & v)
-deep (adj & adv)
-defeat (n & v)
-defence (n)
-defend (v)
-definitely (adv)
-degree (n)
-delay (n & v)
-delete (v)
-delicious (adj)
-delighted (adj)
-deliver (v)
-delivery (n)
-demand (n & v)
-dentist (n)
-depart (v)
-department (n)
-department store (n)
-departure (n)
-depend (on/upon) (v & phr v)
-deposit (n)
-depressed (adj)
-depth (n)
-describe (v)
-description (n)
-desert (n)
-deserve (v)
-design (n & v)
-designer (n)
-desk (n)
-despite (prep)
-dessert (n)
-destination (n)
-destroy (v)
-detail (n)
-detective (n)
-develop (v)
-development (n)
-diagram (n)
-dial (v)
-diary (n)
-dictionary (n)
-die (v)
-diet (n)
-difference (n)
-different (adj)
-difficult (adj)
-difficulty (n)
-dig (v)
-digital (adj)
-digital camera (n)
-dining room (n)
-dinner (n)
-dinosaur (n)
-diploma (n)
-direct (adj & v)
-direction (n)
-directly (adv)
-director (n)
-dirt (n)
-dirty (adj)
-disabled (adj)
-disadvantage (n)
-disagree (v)
-disappear (v)
-disappoint (v)
-disappointed (adj)
-disappointing (adj)
-disappointment (n)
+cycle 
+cycling 
+cyclist 
+dad
+daily
+damage
+damaged
+dance
+dancer
+dancing
+danger
+dangerous
+dark
+date
+daughter
+day
+dead
+deaf
+deal
+deal with
+dear
+death
+decide
+decision
+declare
+decorate
+decrease
+deep
+defeat
+defence
+defend
+definitely
+degree
+delay
+delete
+delicious
+delighted
+deliver
+delivery
+demand
+dentist
+depart
+department
+department store
+departure
+depend
+deposit
+depressed 
+depth 
+describe 
+description
+desert 
+deserve 
+design 
+designer
+desk 
+despite 
+dessert 
+destination 
+destroy 
+detail 
+detective 
+develop 
+development 
+diagram
+dial
+diary 
+dictionary 
+die
+diet
+difference
+different
+difficult
+difficulty
+dig
+digital
+digital camera
+dining room
+dinner
+dinosaur
+diploma
+direct
+direction
+directly
+director
+dirt
+dirty
+disabled
+disadvantage
+disagree
+disappear
+disappoint
+disappointed
+disappointing
+disappointment
 disc
 disk
-disc jockey (OJ) (n)
-disco(theque) (n)
-discount (n)
-discover (v)
-discuss (v)
-discussion (n)
-disease (n)
-disgusting (adj)
-dish (n)
-dishwasher (n)
-disk (n)
-dislike (v)
-display (n & v)
-distance (n)
-district (n)
-disturb (v)
-dive (v)
-diver (n)
-divide (v)
-diving (n)
-OJ (disc jockey) (n)
-do (av & v)
-doctor I Dr (n)
-document (n)
-documentary (n)
-dog (n)
-doll (n)
-dollar (n)
-dolphin (n)
-donkey (n)
-door (n)
+disc jockey
+disco
+discount
+discover
+discuss
+discussion
+disease
+disgusting
+dish
+dishwasher
+disk
+dislike
+display
+distance
+district
+disturb
+dive
+diver
+divide
+diving
+OJ
+do
+doctor
+document
+documentary
+dog
+doll
+dollar
+dolphin
+donkey
+door
 dot
-double (adj & det)
-doubt (n)
-down (adv & prep)
-download (n & v)
-downstairs (adj & adv)
-dozen (det & n)
-Dr (n)
-drag (v)
-drama (n)
-draw (v)
-drawer (n)
-drawing (n)
-dream (n & v)
-dress (n & v)
-dressed (adj)
-drink (n & v)
-drive (n & v)
-driver (n)
-driving licence (n)
-drop (n & v)
-drugstore (n)
-drum (n)
-dry (adj & v)
-duck (n)
-due(adj)
-due to (prep phr)
-dull (adj)
-during (prep)
-dust(n)
-dustbin (n)
-dusty (adj)
-duty (n)
-duty-free (adj & n)
-duvet (n)
-DVD (n)
-DVD player (n)
-each (det & pron)
-ear(n)
-earache (n)
-early (adj & adv)
-earn (v)
-earring (n)
-earth (n)
-east (adj,adv & n)
-eastern (adj)
-easily (adv)
-easy(adj)
-easygoing (adj)
-eat (v)
-economics (n)
-edge (n)
-education (n)
-effect (n)
-efficient (adj)
-effort (n)
-egg (n)
-either (adv, det & pron)
-elbow (n)
-elder (adj)
-elderly (adj)
-election (n)
-electric (adj)
-electrical (adj)
-electricity (n)
-electronic (adj)
-elementary (adj)
-elephant (n)
-elevator (n)
-else (adv)
-email (n & v)
-embarrassed (adj)
-embarrassing (adj)
-embassy (n)
-emergency (n)
-employ (v)
-employee (n)
-employer (n)
-employment (n)
-empty (adj)
-encourage (v)
-end (n & v)
-ending (n)
-end up (phr v)
-enemy (n)
-energy (n)
-engaged(adj)
-engine (n)
-engineer (n)
-engineering (n)
-enjoy (v)
-enormous (adj)
-enough (adv, det & pron)
-enquiry (n)
-enter (v)
-entertain (v)
-entertainment (n)
-entrance (n)
-entry (n)
-envelope (n)
-environment (n)
-environmental (adj)
-equal (adj)
-equipment (n)
-eraser (n)
-escape (v)
-especially (adv)
-essay (n)
-essential (adj)
-euro (n)
-evening (n)
-event(n)
-ever (adv)
-every (det)
-everybody (pron)
-everyone (pron)
-everything (pron)
-everywhere (adv)
-exact (adj)
-exactly (adv)
+double
+doubt
+down
+download
+downstairs
+dozen
+Dr
+drag
+drama
+draw
+drawer
+drawing
+dream
+dress
+dressed
+drink
+drive
+driver
+driving licence
+drop
+drugstore
+drum
+dry
+duck
+due
+due to
+dull
+during
+dust
+dustbin
+dusty
+duty
+duty-free
+duvet
+DVD
+DVD player
+each
+ear
+earache
+early
+earn
+earring
+earth
+east
+eastern
+easily
+easy
+easygoing
+eat
+economics
+edge
+education
+effect
+efficient
+effort
+egg
+either
+elbow
+elder
+elderly
+election
+electric
+electrical 
+electricity
+electronic
+elementary
+elephant
+elevator
+else
+email
+embarrassed
+embarrassing
+embassy 
+emergency 
+employ 
+employee 
+employer
+employment
+empty
+encourage
+end
+ending
+end up
+enemy
+energy
+engaged
+engine
+engineer
+engineering
+enjoy
+enormous
+enough
+enquiry
+enter
+entertain
+entertainment
+entrance
+entry
+envelope
+environment
+environmental
+equal
+equipment
+eraser
+escape
+especially
+essay
+essential
+euro
+evening
+event
+ever
+every
+everybody
+everyone
+everything
+everywhere
+exact
+exactly
 examination
-exam (n)
-examiner (n)
-example (n)
-excellent (adj)
-except (prep, conj)
-exchange (n)
-exchange (v)
-exchange rate (n)
-excited (adj)
-excitement(n)
-exciting (adj)
-excuse (n & v)
-exercise (n & v)
-exhausted (adj)
-exhibition (n)
-exist (v)
-exit (n)
-expect (v)
-expedition (n)
-expensive (adj)
-experience (n)
-experienced (adj)
-experiment (n)
-expert (n)
-explain (v)
-explanation (n)
-explode (v)
-explore (v)
-explorer (n)
+exam
+examiner
+example
+excellent
+except
+exchange
+exchange rate
+excited
+excitement
+exciting
+excuse
+exercise
+exhausted
+exhibition
+exist 
+exit
+expect 
+expedition 
+expensive 
+experience
+experienced
+experiment
+expert 
+explain
+explanation
+explode 
+explore 
+explorer 
 explorers
-extra (adj, adv & n)
-extraordinary (adj)
-extremely (adv)
-extreme sport (n)
-eye (n)
-face (n)
-face to face (adv)
-face-to-face (adj)
-facilities (n pi)
-facilities.
-fact (n)
-factory (n)
-fail (v)
-fair (adj & n)
-fairly (adv)
-fall (n & v)
-false (adj)
-familiar (with) (adj)
-family (n)
-famous (adj)
-fan (n)
-fancy (v)
-fantastic (adj)
-far (adv)
-fare (n)
-farm (n)
-farmer (n)
-farming (n)
-fashion (n)
-fashionable (adj)
-fast (adj & adv)
-fasten (v)
-fast food (n)
-fat (adj)
-father (n)
-fault (n)
-favour (n)
-favourite (adj & n)
-fax (v)
-fear (n)
-fee (n)
-feed (v)
-feel (v)
-feeling (n)
-feel like (v)
-female (adj)
-ferry (n)
-festival (n)
-fetch (v)
-fever (n)
-few (adj, det & pon)
-fiction (n)
-field (n)
-fight (n & v)
-figure (n)
-file (n)
-fill (v)
-fill in (phr v)
-fill up (phr v)
-film (n & v)
-film maker (n)
+extra
+extraordinary
+extremely 
+extreme sport 
+eye 
+face 
+face to face
+face-to-face 
+facilities
+fact
+factory 
+fail 
+fair
+fairly
+fall
+false
+familiar
+family
+famous
+fan
+fancy
+fantastic
+far
+fare
+farm
+farmer
+farming 
+fashion 
+fashionable
+fast
+fasten
+fast food
+fat
+father
+fault
+favour
+favourite
+fax
+fear
+fee
+feed
+feel
+feeling
+feel like
+female
+ferry
+festival
+fetch
+fever
+few
+fiction
+field
+fight
+figure
+file
+fill
+fill in
+fill up
+film
+film maker
 film star
-final (adj & n)
-finally (adv)
-financial (adj)
-find (v)
-find out (phr v)
-arriving.
-fine (adj & n)
-finger (n)
-finish (n & v)
-fire (n)
-firefighter (n)
-firework (n)
-firm (n)
-first (adj & adv)
-first name (n)
-fish (n & v)
-fishing (n)
-fit (adj & v)
-fitness (n)
-fix (v)
-flag (n)
-flat (adj & n)
-flavour (n)
-flight (n)
-float (v)
-flood (n & v)
-floor (n)
-flour (n)
-flow (v)
-flower (n)
-flu (n)
-flute (n)
-fly (n & v)
-fog (n)
-foggy (adj)
-fold (v)
-folk (adj & n)
-follow (v)
-following (adj)
-fond (adj)
-food (n)
-fool (n)
-foot (n)
-football (n)
-footballer (n)
-for (prep)
-forbidden (adj)
-forecast (n)
-foreign (adj)
-foreigner (n)
-forest (n)
-forever (adv)
-forget (v)
-forgive (v)
-fork (n)
-form (n)
-former (adj)
-fortnight (n)
-fortunately (adv)
-forward(s) (adv)
-fountain (n)
-frame (n)
-free (adj & adv)
-freeze (v)
-freezer (n)
-freezing (adj)
-French fries (n)
-frequent (adj)
-fresh (adj)
-fridge (n)
-fried (adj)
-friend (n)
-friendly (adj)
-friendship (n)
-frighten (v)
-frightened (adj)
-frightening (adj)
-frog (n)
-from (prep)
-front (adj &n)
-frozen (adj)
-fruit (n)
-fry (v)
-frying pan (n)
-fuel (n)
-full (adj)
-full stop (n)
-full time (adv)
-full-time (adj)
-fully (adv)
-fun (adj & n)
-funny(adj)
-(strange)
-fur (n)
-furniture (n)
-further (adv & adj)
-furthest (adj)
-future (adj & n)
-gain (v)
-gallery (n)
-game (n)
-gap (n)
-garage (n)
+final
+finally
+financial
+find
+find out
+fine
+finger
+finish
+fire
+firefighter
+firework
+firm
+first
+first name
+fish
+fishing
+fit
+fitness
+fix
+flag
+flat
+flavour
+flight
+float
+flood
+floor
+flour
+flow
+flower
+flu
+flute
+fly
+fog
+foggy
+fold 
+folk 
+follow 
+following 
+fond 
+food 
+fool 
+foot 
+football 
+footballer
+for 
+forbidden 
+forecast
+foreign 
+foreigner 
+forest 
+forever 
+forget
+forgive 
+fork 
+form 
+former 
+fortnight
+fortunately 
+forward
+fountain 
+frame
+free
+freeze
+freezer
+freezing
+French fries
+frequent
+fresh
+fridge
+fried
+friend
+friendly
+friendship 
+frighten
+frightened
+frightening
+frog
+from
+front
+frozen 
+fruit
+fry
+frying pan
+fuel
+full
+full stop
+full time
+full-time
+fully
+fun
+funny
+fur
+furniture
+further
+furthest
+future
+gain
+gallery
+game
+gap
+garage
 garden
-game (n)
-gap (n)
-garage (n)
-garden (n)
-garlic (n)
-gas (n)
-gas station (n)
-gate (n)
-general (adj)
-generally (adv)
-generation (n)
-generous (adj)
-gentle (adj)
-geography (n)
-get (v)
-get along (with) (v & phr v)
-get back (phr v)
-get down (phr v)
-get fit (v)
-get in (phr v)
-get off (phr v)
-get on (phr v)
-get on (with) (phr v)
-get rid of (phr v)
-get up (phr v)
-giant (adj)
-gift (n)
-giraffe (n)
-girl (n)
-girlfriend (n)
-give (v)
-give back (phr v)
-give in (phr v)
-give out (phr v)
-give up (phr v)
-give way (phr v)
-glad (adj)
-glance (v)
-glass (n)
-glasses (n pi)
-global warming (n)
-glove (n)
-go (v)
-goal (n)
-goalkeeper (n)
-goat (n)
-go for (phr v)
-gold (adj & n)
-golden (adj)
-golf (n)
-good (adj)
-good afternoon (exclam)
-good-looking (adj)
-good morning (exclam)
-go off (phr v)
-go on (phr v)
-go out (phr v)
-gorgeous (adj)
-government (n)
-go (with/together) (phr v)
-grab (v)
-grade (n)
-graduation (n)
-gram(me) (n)
-grammar (n)
-grandchild (n)
-grand(d)ad (n)
-granddaughter (n)
-grandfather (n)
-grandma (n)
-grandmother (n)
-grandpa (n)
-grandparent (n)
-grandson (n)
-granny (n)
-grant (n)
-grape (n)
-graphics (n pi)
-grass (n)
-grateful (adj)
-great (adj)
-green (adj & n)
-greet (v)
-greeting (n)
-grey (adj & n)
-grill (n & v)
-grilled (adj)
-grocery store (n)
-groom (n)
-ground (n)
-group (n)
-grow (v)
-grow up (phr v)
-guard (n)
-guess (n & v)
-guest (n)
-guest-house (n)
-guide (n & v)
-guidebook (n)
-guilty (adj)
-guitar (n)
-guitarist (n)
-gum (n)
-gun (n)
-guy (n)
-gym (n)
-gymnastics (n)
-habit (n)
-hair (n)
-haircut (n)
-hairdresser(n)
-hairdryer(n)
-half (adv, det, n & pron)
-half-price(adj)
-hall (n)
-hand (n & v)
-handbag (n)
-hand-held(adj)
-hand in (phr v)
-handkerchief (n)
-handle (v)
-hand out (phr v)
-handsome (adj)
-handwriting (n)
-hang (v)
-hang up (phr v)
-phone call.
-happen (v)
-happy (adj)
-happily (adv)
-happiness (n)
-harbour (n)
-hard (adj & adv)
-hardly (adv)
-hardware (n)
-hat (n)
-hate (v)
-have (av & v)
-have got to (mv)
-have to (mv)
-he (pron)
-head (n)
-headache (n)
-headline (n)
-headteacher (n)
-health (n)
-healthy (adj)
-hear (v)
-heart (n)
-heat (n)
-heating (n)
-heater (n)
-heavy(adj)
-heel (n)
-height (n)
-helicopter (n)
-hello (exclam)
-helmet (n)
-help (n & v)
-her (det & pron)
-herb (n)
-here (adv)
-hero (n)
-heroine (n)
-hers (pron)
-herself(pron)
-hey (exclam)
-hi (exclam)
-hidden (adj)
-hide (v)
-high (adj & adv)
-hill (n)
-him (pron)
-himself (pron)
-hip hop (n)
-hire (v & n)
-his (det & pron)
-historic (adj)
-historical (adj)
-history (n)
-hit (n & v)
-hitchhike (v)
-hobby (n)
-hockey(n)
-hold (v)
-hold up (phr v)
-hole (n)
-holiday (n)
-home (adv & n)
-homepage (n)
-homework (n)
-honest (adj)
-honestly (adv)
-honey (n)
-honeymoon (n)
-hope (n & v)
-hopeful (adj)
-hopefully (adv)
-hopeless (adj)
-horrible (adj)
-horror (adj)
-horse (n)
-hospital (n)
-hostel (n)
-hot (adj)
-hotel (n)
-hour (n)
-house (n)
-housewife(n)
-housework(n)
-how (adv)
-however(adv)
-how much (adv)
-hug (n & v)
-huge(adj)
-human (adj &n)
-humid (adj)
-hunger (n)
-hungry (adj)
-hunt (v)
-hurry (n & v)
-hurt (adj & v)
-husband (n)
-hut (n)
- (pron)
-ice(n)
-ice cream (n)
-ice hockey (n)
-ice skating (n)
-icy (adj)
-ID (n)
-ID card (n)
-idea (n)
-identification (n)
-identity card (ID) (n)
-if (conj)
-ill (adj)
-illness (n)
-imagination (n)
-imagine (v)
-immediately (adv)
-immigration (n)
-importance (n)
-important (adj)
-impossible (adj)
-improve (v)
-improvement (n)
-in (adv & prep)
-in advance (prep phr)
-inch (n)
-include (v)
-including (prep)
-incorrect (adj)
-increase (v)
-incredible (adj)
-indeed (adv)
-independent (adj)
-individual (adj)
-indoor (adj)
-indoors (adv)
-industry (n)
-in fact (prep phr)
-inform (v)
-information (n)
-in front of (prep phr)
-ingredient (n)
-ingredients in half (prep phr)
-in ink (prep phr)
-initial (n)
-injure (v)
-ink (n)
-in love (prep phr)
-in pencil (prep phr)
-in order (prep phr)
-in order to (prep phr)
-inquiry (n)
-insect (n)
-inside (adv & prep)
-insist (v)
-install (v)
-instance (n)
-instead (of) (adv)
-instructions (n pi)
-instructor (n)
-instrument (n)
-intelligent (adj)
-intend (v)
-interest (n & v)
-interested (adj)
-interesting (adj)
-intermediate (adj)
-international (adj)
-internet (n)
-interrupt (v)
-interval (n)
-interview (n & v)
-in the end (prep phr)
-in time (prep phr)
-into (prep)
-introduce (v)
-introduction (n)
-in two (prep phr)
-invent (v)
-invention (n)
-invitation (n)
-invite (v)
-involve (v)
-iron (n & v)
-ironing (n)
-island (n)
-issue (n)
+game
+gap
+garage
+garden
+garlic
+gas
+gas station
+gate
+general
+generally
+generation
+generous
+gentle
+geography
+get
+get along
+get back
+get down
+get fit
+get in
+get off
+get on
+get rid of
+get up
+giant
+gift
+giraffe
+girl
+girlfriend
+give
+give back
+give in
+give out
+give up
+give way
+glad
+glance
+glass
+glasses
+global warming
+glove
+go
+goal
+goalkeeper
+goat
+go for
+gold
+golden
+golf
+good
+good afternoon
+good-looking
+good morning
+go off
+go on
+go out
+gorgeous
+government
+go
+grab
+grade
+graduation
+gram
+grammar
+grandchild
+grand
+granddaughter
+grandfather
+grandma
+grandmother
+grandpa
+grandparent
+grandson
+granny
+grant 
+grape
+graphics
+grass
+grateful
+great
+green
+greet
+greeting
+grey
+grill
+grilled
+grocery store
+groom
+ground
+group
+grow
+grow up
+guard
+guess
+guest
+guest-house
+guide
+guidebook
+guilty
+guitar
+guitarist
+gum
+gun
+guy
+gym
+gymnastics
+habit
+hair
+haircut 
+hairdresser
+hairdryer
+half
+half-price
+hall
+hand
+handbag
+hand-held
+hand in
+handkerchief
+handle
+hand out
+handsome
+handwriting
+hang
+hang up
+happen
+happy
+happily
+happiness
+harbour
+hard
+hardly
+hardware
+hat
+hate
+have
+have got to
+have to
+he
+head
+headache
+headline
+headteacher
+health
+healthy
+hear
+heart
+heat
+heating
+heater
+heavy
+heel
+height
+helicopter
+hello
+helmet
+help
+her
+herb
+here
+hero
+heroine
+hers
+herself
+hey
+hi
+hidden 
+hide
+high 
+hill 
+him 
+himself 
+hip hop
+hire 
+his
+historic
+historical
+history
+hit
+hitchhike
+hobby
+hockey
+hold
+hold up
+hole
+holiday
+home
+homepage
+homework
+honest
+honestly
+honey
+honeymoon
+hope
+hopeful
+hopefully
+hopeless
+horrible
+horror
+horse
+hospital
+hostel
+hot
+hotel
+hour
+house
+housewife
+housework
+how
+however
+how much
+hug
+huge
+human
+humid
+hunger
+hungry 
+hunt 
+hurry 
+hurt
+husband 
+hut
+ice
+ice cream
+ice hockey
+ice skating
+icy 
+ID
+ID card 
+idea 
+identification 
+identity card
+if
+ill
+illness
+imagination
+imagine
+immediately
+immigration
+importance
+important
+impossible 
+improve
+improvement
+in 
+in advance 
+inch
+include
+including 
+incorrect 
+increase 
+incredible
+indeed
+independent
+individual
+indoor
+indoors
+industry
+in fact
+inform
+information
+in front of
+ingredient
+ingredients in half
+in ink
+initial
+injure
+ink
+in love
+in pencil
+in order
+in order to
+inquiry
+insect
+inside
+insist
+install
+instance
+instead
+instructions
+instructor
+instrument
+intelligent
+intend
+interest
+interested
+interesting
+intermediate
+international
+internet
+interrupt
+interval
+interview
+in the end
+in time
+into
+introduce
+introduction
+in two
+invent
+invention
+invitation
+invite
+involve 
+iron 
+ironing
+island
+issue 
 IT 
 Information 
 Technology
-it (pron)
-item (n)
-its (det)
-itself (pron)
-jacket (n)
-jail (n)
-jam (n)
-jar (n)
-jazz (n)
-jealous (adj)
-jeans (n pi)
-jet (n)
-job (n)
-jog (v)
+it
+item
+its 
+itself
+jacket
+jail
+jam
+jar
+jazz
+jealous
+jeans
+jet
+job
+jog
 jogging
-join (v)
-joke (n & v)
-journalist (n)
-journey (n)
-judge (n & v)
-jug (n)
-juice (n)
-jump (n & v)
-jumper (n)
-jungle (n)
-just (adv)
-kangaroo (n)
-keen (adj)
-keep (v)
-keeper (n)
-keep in (phr v)
-keep on (phr v)
-keep up (phr v)
-kettle (n)
-key (n)
-keyboard (n)
-kid (n)
-kill (v)
-kilogramme (kg) (n)
-kilometre (km) (n)
-kind (adj & n)
-king (n)
-kiss (n & v)
-kit (n)
-kitchen (n)
-label (n)
-laboratory (lab) (n)
-lack (n)
-ladder (n)
-lady (n)
-lake (n)
-lamb (n)
-lamp (n)
-land (n & v)
-landscape (n)
-language (n)
-laptop (computer) (n)
-large (adj)
-last (adj, adv, det & v)
-late (adj & adv)
-lately (adv)
-later (adj & adv)
-latest (adj)
-laugh (n & v)
-law (n)
-lawyer (n)
-lay (v)
-lazy (adj)
-lead (v)
+join
+joke
+journalist
+journey
+judge
+jug
+juice
+jump
+jumper
+jungle
+just
+kangaroo
+keen
+keep
+keeper 
+keep in
+keep on
+keep up
+kettle
+key
+keyboard
+kid
+kill
+kilogramme
+kg
+kilometre
+km
+kind
+king
+kiss
+kit
+kitchen
+label
+laboratory
+lab
+lack
+ladder
+lady
+lake
+lamb
+lamp
+land
+landscape
+language
+laptop
+large
+last
+late
+lately
+later
+latest
+laugh
+law
+lawyer
+lay
+lazy
+lead
 hand
-leader (n)
-leaf (n)
-league (n)
-learn (v)
-least (adj & adv)
-leather (n)
-leave (v)
-lecture (n)
-left (n, adj & adv)
-left-hand (adj)
-leg (n)
-leisure (n)
-lemon (n)
-lemonade (n)
-lend (v)
-length (n)
-less (adv, det & pron)
-lesson (n)
-let (v)
-letter (n)
-lettuce (n)
-level (n)
-library (n)
-licence (n)
-lie (n & v)
-lie down (phr v)
-life (n)
-lift (n & v)
-table. (v)
-light (adj, n & v)
-lighter (n)
-lightning (n)
-like (prep & v)
-likely (adj)
-limit (n)
-limited (adj)
-line (n)
-link (n)
-lion (n)
-lip (n)
-liquid (n)
-list (n)
-listen (v)
-literature (n)
-litre (n)
-litter (n)
-little (adj,det & pron)
-live (v)
-live (adj)
-lively (adj)
-living room (n)
-load (n)
-loan (n)
-local (adj)
-locate (v)
-location (n)
-lock (n & v)
-locker (n)
-logo (n)
-lonely (adj)
-long (adj)
-look like (v)
-look (n & v)
-look after (phr v)
-baby now?
-look at (phr v)
-look for (phr v)
-look forward to (phr v)
-look out (phr v)
-look up (phr v)
-loose (adj)
-lorry (n)
-lose (v)
-lost (adj)
-lots I a lot (n)
-lottery (n)
-loud (adj)
-love (n &v)
-lovely (adj)
-low (adj)
-luck (n)
-lucky (adj)
-luggage (n)
-lunch (n)
-lunchtime (n)
-luxury (n)
-machine (n)
-mad (adj)
-Madam (n)
-made of
-from
-out of (v)
-magazine (n)
-magic (adj & n)
-magnificent (adj)
-mail (n & v)
-main (adj)
-main course (n)
-make (v)
-make sure (v)
-make-up (n)
-male (adj)
-man (n)
-manage (v)
-manager (n)
-mango (n)
-many (det & pron)
-map (n)
-mark (n)
-market (n)
+leader
+leaf
+league
+learn
+least
+leather
+leave
+lecture
+left
+left-hand
+leg
+leisure
+lemon
+lemonade
+lend
+length
+less
+lesson
+let
+letter
+lettuce
+level
+library
+licence
+lie
+lie down
+life
+lift
+light
+lighter
+lightning
+like
+likely
+limit
+limited
+line
+link 
+lion
+lip
+liquid
+list
+listen 
+literature
+litre
+litter
+little
+live
+live
+lively
+living room
+load
+loan
+local
+locate
+location
+lock
+locker
+logo
+lonely
+long
+look like
+look
+look after
+look at
+look for
+look forward to
+look out
+look up
+loose
+lorry
+lose
+lost
+lots
+lottery
+loud
+love
+lovely
+low
+luck
+lucky
+luggage
+lunch
+lunchtime
+luxury
+machine
+mad
+Madam
+made
+magazine
+magic
+magnificent
+mail
+main
+main course
+make
+make sure
+make-up
+male
+man
+manage
+manager
+mango
+many
+map
+mark
 market
-marriage (n)
-married (adj)
-marry (v)
-marvellous (adj)
-match (n & v)
-mate (n)
-material (n)
-maths I mathematics
-matter (n & v)
-maximum (adj & n)
-may (mv)
-maybe (adv)
-me (pron)
-meal (n)
-mean (v)
-meaning (n)
-meanwhile (adv)
-meat (n)
-mechanic (n)
-medicine (n)
-medium (adj)
-meet (v)
-meeting (n)
-melon (n)
-member (n)
-membership (n)
-memory (n)
-mend (v)
-mention (v)
-menu (n)
-mess (n)
-message (n)
-messy (adj)
-metal (n)
-method (n)
-teaching
-metre (n)
-microwave (n)
-midday (n)
-middle (n)
-middle-aged (adj)
-midnight (n)
-might (mv)
-mild (adj)
-mile (n)
-milk (n)
+marriage
+married 
+marry
+marvellous
+match
+mate 
+material 
+maths
+mathematics
+matter
+maximum
+may
+maybe
+me
+meal
+mean
+meaning
+meanwhile
+meat
+mechanic
+medicine
+medium
+meet
+meeting
+melon
+member
+membership
+memory
+mend
+mention
+menu
+mess
+message
+messy
+metal
+method
+metre
+microwave
+midday
+middle
+middle-aged
+midnight
+might
+mild
+mile
+milk
 millimetre
 mm
-million (n)
-mind (n & v)
-mine (pron)
-mineral water (n)
-minimum (adj & n)
-minus (prep)
-minute (n)
-mirror (n)
-miserable (adj)
-miss (v)
-Miss (n)
-Missing (adj)
-Mistake (n)
-mix (v)
-mobile (phone) (n)
-model (n)
-modern (adj)
-moment(n)
-money (n)
-monkey (n)
-month (n)
-monument (n)
-mood (n)
-moon (n)
-more (adv, det & pron)
-morning (n)
-mosquito (n)
-most (adv,det & pron)
-mother (n)
-motorcycle (n)
-motorbike (n)
-motor-racing (n)
-motorway (n)
-mountain (n)
-mouse (n)
-moustache (n)
-mouth (n)
-move (v)
-movie (n)
-movie star (n)
-movie theater (n)
-MP3 player (n)
-Mr (n)
-Mrs (n)
-Ms (n)
-much (adv, det & pron)
-mug (n)
-mum (n)
-museum (n)
-mushroom (n)
-music (n)
-musical (adj)
-musician (n)
-must (mv)
-multiply (v)
-my (det)
-myself (pron)
-mystery (n)
-name (n & v)
-narrow (adj)
-nasty (adj)
-national (adj)
-nationality (n)
-natural (adj)
-nature (n)
-navy blue (adj)
-near (adv, prep & adj)
-nearby (adj & adv)
-nearly (adv)
-neat (adj)
-necessary (adj)
-neck (n)
-necklace (n)
-need (v)
-negative (adj)
-neighbour (n)
-neighbourhood (n)
-nephew (n)
-nervous (adj)
-net (n)
-network (n)
-never (adv)
-new (adj)
-news (n)
-newspaper (n)
-next (adj & adv)
-next to (prep)
-nice (adj)
-niece (n)
-night (n)
-nightclub (n)
-nightlife (n)
-nightmare (n)
-no (adv, det & pron)
-nobody (pron)
-noise (n)
-noisy (adj)
-none (pron)
-noon (n)
-no one (pron)
-normal (adj)
-normally (adv)
-north (adj, adv & n)
-northeast (adj & n)
-northern (adj)
-northwest (adj & n)
-nose (n)
-not (adv)
-note (n & v)
-notebook (n)
-notepaper (n)
-nothing (pron)
-notice (n & v)
-noticeboard (n)
-novel (n)
-now (adv)
-nowadays (adv)
-nowhere (adv)
-number (n)
-number?
-nurse (n)
-object (n)
-obvious (adj)
-obviously (adv)
-occasion (n)
-occupation (n)
-ocean (n)
-o'clock (adv)
-of (prep)
-of course (adv)
-off (adv & prep)
-offer (n & v)
-office (n)
-officer (n)
-often (adv)
-oh (exclam)
-oh dear! (exclam)
-oil(n)
+million
+mind
+mine
+mineral water
+minimum
+minus
+minute
+mirror
+miserable 
+miss
+Miss
+Missing
+Mistake
+mix
+mobile
+model
+modern 
+moment
+money
+monkey 
+month
+monument
+mood
+moon
+more
+morning
+mosquito
+most
+mother
+motorcycle
+motorbike 
+motor-racing 
+motorway
+mountain 
+mouse 
+moustache 
+mouth 
+move
+movie 
+movie star 
+movie theater 
+MP3 player
+Mr 
+Mrs 
+Ms 
+much 
+mug 
+mum 
+museum 
+mushroom 
+music 
+musical 
+musician 
+must
+multiply 
+my 
+myself 
+mystery 
+name
+narrow 
+nasty 
+national 
+nationality 
+natural 
+nature 
+navy blue 
+near 
+nearby 
+nearly 
+neat 
+necessary 
+neck 
+necklace 
+need 
+negative 
+neighbour 
+neighbourhood
+nephew 
+nervous 
+net 
+network 
+never 
+new 
+news 
+newspaper 
+next 
+next to
+nice 
+niece 
+night
+nightclub 
+nightlife 
+nightmare 
+no 
+nobody 
+noise 
+noisy 
+none 
+noon
+no one 
+normal 
+normally 
+north 
+northeast 
+northern 
+northwest 
+nose 
+not 
+note 
+notebook 
+notepaper 
+nothing 
+notice 
+noticeboard
+novel
+now 
+nowadays 
+nowhere 
+number 
+nurse 
+object 
+obvious 
+obviously 
+occasion 
+occupation 
+ocean 
+o'clock 
+of
+of course 
+off 
+offer 
+office 
+officer 
+often
+oh 
+oh dear! 
+oil
 OK 
 O.K.
 okay 
-old (adj)
-old-fashioned (adj)
-olive (n)
-omelette (n)
-on (adv & prep)
-on board (prep phr)
-on business (prep phr)
-once (adv)
-one (det & pron)
-on fire (prep phr)
-on foot (prep phr)
-on holiday (prep phr)
-onion (n)
-online (adv & adj)
-online (adv)
-only (adj & adv)
-on purpose (prep phr)
-on request (prep phr)
-on sale (prep phr)
-on time (prep phr)
-onto (prep)
-open (adj & v)
-opening hours (n pi)
-opera (n)
-operate (v)
-operation (n)
-opinion (n)
-opportunity (n)
-opposite (adj, n, prep & adv)
-option (n)
-or (conj)
-orange (adj & n)
-orchestra (n)
-order (conj,n& v)
-ordinary (adj)
-organisation (n)
-organise (v)
-original (adj)
-other (adj, pron & det)
-otherwise (adv)
-ought (mv)
-our (det)
-ours (pron)
-ourselves (pron)
-out (adv)
-outdoor (adj)
-outdoors (adv)
-out of (prep)
-out of date (prep phr)
-out of order (prep phr)
-out of work (prep phr)
-outside (adv,adj & prep)
-oven (n)
-over (adv & prep)
-over 40 people
-overnight (adj & adv)
-owe (v)
-own (adj,pron & v)
-owner (n)
-pack (v)
-packet (n)
-page (n)
-pain (n)
-painful (adj)
-paint (n & v)
-painter (n)
-painting (n)
-pair (n)
-palace (n)
-pale (adj)
-pan (n)
-pants (n) (Am Eng) (Br Eng:
-trousers)
+old
+old-fashioned
+olive
+omelette
+on
+on board
+on business
+once
+one
+on fire
+on foot
+on holiday
+onion
+online
+only
+on purpose
+on request
+on sale
+on time
+onto
+open
+opening hours
+opera
+operate
+operation
+opinion
+opportunity
+opposite
+option
+or
+orange
+orchestra
+order
+ordinary
+organisation
+organise
+original
+other
+otherwise
+ought
+our
+ours
+ourselves
+out
+outdoor
+outdoors
+out of
+out of date
+out of order
+out of work
+outside
+oven
+over
+overnight
+owe
+own
+owner
+pack
+packet
+page
+pain
+painful
+paint
+painter
+painting
+pair
+palace
+pale
+pan
+pants
 paper 
-paragraph (n)
-parcel (n)
-pardon (exclam)
-parent (n)
-park (n & v)
-parking (n)
-parking lot (n) (Am Eng) (Br
-Eng:car park)
-parrot (n)
-part (n)
-partly (adv)
-particular (adj)
-partner (n)
-part time (adv)
-part-time (adj)
-party (n)
+paragraph
+parcel
+pardon
+parent
+park
+parking
+parking lot
+parrot
+part
+partly
+particular
+partner
+part time
+party
 pass
-passenger (n)
-passport (n)
-password (n)
-past (adj, n & prep)
-pasta (n)
-path (n)
-patient (adj & n)
-pattern (n)
-pause (v)
-pavement (n)
-pay (n & v)
-PC (personal computer) (n)
-pea (n)
-peace (n)
-peaceful (adj)
-peach (n)
-peak (n)
-peanut (n)
-pear (n)
-pedestrian (n)
-peel (v)
-pen (n)
-pence (n pi)
-pencil (n)
-pencil case (n)
-penfriend (n)
-penguin (n)
-penny (n)
-people (n pi)
-pepper (n)
-per (prep)
-percent (adv)
-perfect (adj)
-perform (v)
-performance (n)
-performer(n)
-perfume (n)
-perhaps (adv)
-period (n)
-permanent (adj)
-permission(n)
-permit (v)
-permitted (adj)
-person (n)
-personal (adj)
-personally (adv)
-persuade (v)
-pet (n)
-petrol (n)
-petrol station (n)
-pharmacy (n)
-phone (n & v)
-photo (n)
-photocopy (n)
-photo(graph) (n)
-photographer (n)
-photography (n)
-phrase (n)
-physics (n)
-piano (n)
-pick (v)
-pick up (phr v)
-picnic (n)
-picture (n)
-pie (n)
-piece (n)
-pig (n)
-pile (n)
-pill (n)
-pillow (n)
-pilot (n)
-pin (n & v)
-pineapple (n)
-pink (adj & n)
-pipe (n)
-pirate (n)
-pity (n)
-pizza (n)
-place (n)
-plain (adj)
-plan (n & v)
-plane (n)
-planet (n)
-plant (n & v)
-plastic (adj & n)
-plate (n)
-platform (n)
-play (n & v)
-player (n)
-playground (n)
-pleasant (adj)
-please (exclam &v)
-pleased (adj)
-pleasure (n)
-plenty (pron)
-plug (n)
-plus (prep & conj)
-p.m. (adv)
-pocket (n)
-pocket money (n)
-poem (n)
-poet (n)
-poetry (n)
-point (n & v)
-police (n)
-policeman (n)
-police officer (n)
-police station (n)
-polite (adj)
-political (adj)
-politician (n)
-politics (n)
-pollution (n)
-pool (n)
-pop (n)
-popular (adj)
-population(n)
-port (n)
-position (n)
-positive (adj)
-possibility (n)
-possible (adj)
-possibly (adv)
-post (n & v)
-postcard (n)
-poster (n)
-postman (n)
-post office (n)
-postpone (v)
-pot (n)
-potato (n)
-pound (¢G) (n)
-pour (v)
-powder (n)
-power (n)
-powerful (adj)
-practice (n)
-practise (v)
-pray (v)
-prayer (n)
-predict (v)
-prefer (v)
-pregnant (adj)
-preparation (n)
-prepare (v)
-prepared (adj)
-prescription (n)
-present (adj & n)
-present. (n)
-presents. (n)
-presentation (n)
-president (n)
-press (v)
-pretty (adj & adv)
-prevent (v)
-previous (adj)
-previously (adv)
-price (n)
-primary school (n)
-prince (n)
-princess (n)
-principal (adj)
-print (v)
-printer (n)
-prison (n)
-prisoner (n)
-private (adj)
-prize (n)
-probably (adv)
-problem (n)
-produce (v)
-product (n)
-profession (n)
-professional (n)
-professor (n)
-program(me) (n)
-progress (n)
-project (n)
-promise (n & v)
-promote (v)
-pronounce (v)
-pronunciation (n)
-proper (adj)
-property (n)
-protect (v)
-proud (adj)
-prove (v)
-provide (v)
-public (adj & n)
-public transport (n)
-publish (v)
-pull (v)
-pullover(n)
-pump (n)
-punish (v)
-pupil(n)
-puppy (n)
-pure (adj)
-purple (adj & n)
-purpose (n)
-purse (n)
-push (n & v)
-put (v)
-put away (phr v)
-put down (phr v)
-put off (phr v)
-put on (phr v)
-put out (phr v)
-put through (phr v)
-put up (phr v)
-its prices.
-puzzle (n)
-pyjamas (n pi)
-qualification (n)
-qualified (adj)
-quality (n)
-quantity (n)
-quarter (n)
-queen (n)
-question (n)
-discussed (subject)
-questionnaire(n)
-queue (n)
-quick (adj)
-quickly (adv)
-quiet (adj)
-quit (v)
-quite (adv)
-quiz (n)
-rabbit (n)
-race (n & v)
-racket (n)
-radio (n)
-rail (n)
-railway (n)
-rain (n & v)
-raincoat (n)
-rainforest (n)
+passenger
+passport
+password
+past
+pasta
+path
+patient
+pattern
+pause
+pavement
+pay
+PC
+pea
+peace
+peaceful
+peach
+peak
+peanut
+pear
+pedestrian
+peel
+pen
+pence
+pencil
+pencil case
+penfriend
+penguin
+penny
+people
+pepper
+per
+percent
+perfect
+perform
+performance
+performer
+perfume
+perhaps
+period
+permanent
+permission
+permit
+permitted
+person
+personal
+personally
+persuade
+pet
+petrol
+petrol station
+pharmacy
+phone
+photo
+photocopy
+photo
+photographer
+photography
+phrase
+physics
+piano
+pick
+pick up
+picnic
+picture
+pie
+piece
+pig
+pile
+pill
+pillow
+pilot
+pin
+pineapple
+pink
+pipe
+pirate
+pity
+pizza
+place
+plain
+plan
+plane
+planet
+plant
+plastic
+plate
+platform
+play
+player
+playground
+pleasant
+please
+pleased
+pleasure
+plenty
+plug
+plus
+p.m.
+pocket
+pocket money
+poem
+poet
+poetry
+point
+police
+policeman
+police officer
+police station
+polite
+political
+politician
+politics
+pollution
+pool
+pop
+popular
+population
+port
+position
+positive
+possibility
+possible
+possibly
+post
+postcard
+poster
+postman
+post office
+postpone
+pot
+potato
+pound
+pour
+powder
+power
+powerful
+practice
+practise
+pray
+prayer
+predict
+prefer
+pregnant
+preparation
+prepare
+prepared
+prescription
+present
+presents
+presentation
+president
+press
+pretty
+prevent
+previous
+previously
+price
+primary school
+prince
+princess
+principal
+print
+printer
+prison
+prisoner
+private
+prize
+probably
+problem
+produce
+product
+profession
+professional
+professor
+program
+progress
+project
+promise
+promote
+pronounce
+pronunciation
+proper
+property
+protect
+proud
+prove
+provide
+public
+public transport
+publish
+pull
+pullover
+pump
+punish
+pupil
+puppy
+pure
+purple
+purpose
+purse
+push
+put
+put away
+put down
+put off
+put on
+put out
+put through
+put up
+puzzle
+pyjamas
+qualification
+qualified
+quality
+quantity
+quarter
+queen
+question
+discussed
+questionnaire
+queue
+quick
+quickly
+quiet
+quit
+quite
+quiz
+rabbit
+race
+racket
+radio
+rail
+railway
+rain
+raincoat
+rainforest
 raise
-range (n)
-rap (n)
-rare (adj)
-rarely (adv)
-rather (adv)
-raw (adj)
-reach (v)
-read (v)
-reader (n)
-reading (n)
-ready (adj)
-real (adj)
-realise (v)
-realistic (adj)
-really (adv)
-reason (n)
-reasonable (adj)
-reasonably (adv)
-rebuild (v)
-receipt (n)
-receive (v)
-recent (adj)
-reception (n)
-receptionist (n)
-recipe (n)
-recognise (v)
-recommend (v)
-record (n & v)
-recording (n)
-recover (v)
-recycle (v)
-recycled (adj)
-recycling (n)
-red (adj)
-reduce (v)
-refreshments (n pi)
-refrigerator (n)
-refund (n)
-refuse (v)
-regarding (prep)
-regards (n)
-region (n)
-register (v)
-registration (n)
-regret (n & v)
-regular (adj)
-relation (n)
-relationship (n)
-relative (n)
-relax (v)
-relaxation (n)
-relaxed (adj)
-reliable (adj)
-religion (n)
-remain (v)
-remember (v)
-remind (v)
-remote control (n)
-remove (v)
-rent (n & v)
-repair (n & v)
-repeat (v)
-replace (v)
-reply (n & v)
-report (n & v)
-reporter (n)
-request (n & v)
-require (v)
-rescue (n & v)
-research (v)
-reservation(n)
-reserve (n & v)
-resort (n)
-respect (n & v)
-responsible (adj)
-rest (n & v)
-restaurant (n)
-result (n)
-retire (v)
-return (n & v)
-review (n)
-revise (v)
-revision (n)
-reward (n)
-rice (n)
-rich (adj)
-ride (n & v)
-rider (n)
-right (adj, adv & n)
-right-hand (adj)
-ring (n & v)
-ring back (phr v)
-ring up (phr v)
+range
+rap
+rare
+rarely
+rather
+raw
+reach
+read
+reader
+reading
+ready
+real
+realise
+realistic
+really
+reason
+reasonable
+reasonably
+rebuild
+receipt
+receive
+recent
+reception
+receptionist
+recipe
+recognise
+recommend
+record
+recording
+recover
+recycle
+recycled
+recycling
+red
+reduce
+refreshments
+refrigerator
+refund
+refuse
+regarding
+regards
+region
+register
+registration
+regret
+regular
+relation
+relationship
+relative
+relax
+relaxation
+relaxed
+reliable
+religion
+remain
+remember
+remind
+remote control
+remove
+rent
+repair
+repeat
+replace
+reply
+report
+reporter
+request
+require
+rescue
+research
+reservation
+reserve
+resort
+respect
+responsible
+rest
+restaurant
+result
+retire
+return
+review
+revise
+revision
+reward
+rice
+rich
+ride
+rider
+right
+right-hand
+ring
+ring back
+ring up
 rise
-river (n)
-road (n)
-roast (adj & v)
-rob (v)
-rock (n)
-role (n)
-roll (n)
-romance (n)
-romantic (adj)
-roof (n)
-room (n)
-rose (n)
-rough (adj)
-round (adj, adv & prep)
-roundabout (n)
-route (n)
-routine (n)
-row (n)
-rubber (n)
-rubbish (n)
-rude (adj)
-rug (n)
-rugby (n)
-ruin (n)
-rule (n & v)
-ruler (n)
-run (v)
-runner (n)
-running (n)
-run out (phr v)
-sad(adj)
-safe (adj)
-safely (adv)
-sail (n & v)
-sailing (n)
-salad (n)
-salary (n)
-sale (n)
+river
+road
+roast
+rob
+rock
+role
+roll
+romance
+romantic
+roof
+room
+rose
+rough
+round
+roundabout
+route
+routine
+row
+rubber
+rubbish
+rude
+rug
+rugby
+ruin
+rule
+ruler
+run
+runner
+running
+run out
+sad
+safe
+safely
+sail
+sailing
+salad
+salary
+sale
 salesman
 saleswoman
-salmon (n)
-salt (n)
-same (adj, pron & adv)
-sand (n)
-sandal (n)
-sandwich (n)
-satisfactory (adj)
-satisfied (adj)
-sauce (n)
-saucepan (n)
-saucer (n)
-sausage (n)
-save (v)
-say (v)
-scared (adj)
-scarf (n)
-scary (adj)
-scene (n)
-scenery (n)
-school (n)
-schoolchild (n)
-science (n)
-science fiction (n)
-scientific (adj)
-scientist (n)
-scissors (n pi)
-scooter (n)
-score (n & v)
-scream (n & v)
-screen (n)
-sculpture (n)
-sea (n)
-search (n & v)
-seaside (n)
-season (n)
-seat(n)
-seat belt (n)
-second (adv, det & n)
-silver (adv)
-secondary (adj)
-second-hand (adj & adv)
-secret (adj & n)
-secretary (n)
-section (n)
-security (n)
-see (v)
-seem (v)
-select (v)
-selfish (adj)
-self-service (adj)
-sell(v)
-send (v)
-sense (n)
-sensible (adj)
-sentence (n)
-separate (adj)
-series (n)
-serious (adj)
-seriously (adv)
-serve (v)
+salmon
+salt
+same
+sand
+sandal
+sandwich
+satisfactory
+satisfied
+sauce
+saucepan
+saucer
+sausage
+save
+say
+scared
+scarf
+scary
+scene
+scenery
+school
+schoolchild
+science
+science fiction
+scientific
+scientist
+scissors
+scooter
+score
+scream
+screen
+sculpture
+sea
+search
+seaside
+season
+seat
+seat belt
+second
+silver
+secondary
+second-hand
+secret
+secretary
+section
+security
+see
+seem
+select
+selfish
+self-service
+sell
+send
+sense
+sensible
+sentence
+separate
+series
+serious
+seriously
+serve
 server
-service (n)
-session (n)
-set (n & v)
-set off (phr v)
-set out (phr v)
-set up (phr v)
-several (det & pron)
-sew (v)
-sex (n)
-shade (n)
-shadow (n)
-shake (v)
-shall (mv)
-shame (n)
-shampoo (n)
-shape (n)
-share (v)
-shark (n)
+service
+session
+set
+set off
+set out
+set up
+several
+sew
+sex
+shade
+shadow
+shake
+shall
+shame
+shampoo
+shape
+share
+shark
 sharp
-shave (v)
-she (pron)
-sheep (n)
-sheet (n)
-shelf (n)
-shine (v)
-shiny (adj)
-ship (n)
-shirt (n)
-shock(n)
-shocked (adj)
-shocking (adj)
-shoe (n)
-shoot (v)
-shop (n & v)
-shop assistant (n)
-shopping (n)
-shore (n)
-short (adj)
-shortly (adv)
-shorts (n pi)
-should (mv)
-shoulder (n)
-shout (n & v)
-show (n & v)
-shower (n)
-shut (adj & v)
-shy(adj)
-sick (adj)
-side (n)
-sight (n)
-glasses.
-sightseeing (n)
-sign (n & v)
-signal (n & v)
-signature (n)
-signpost (n)
-silence (n)
-silent (adj)
-silk (adj & n)
-silly (adj)
-silver (adj & n)
-similar (adj)
-simple (adj)
-since (conj & prep)
-sincerely (adv)
-sing (v)
-singer (n)
-singing (n)
-single (n & adj)
-sink (n & v)
-sir (n)
-sister (n)
-sit (v)
-sit down (phr v)
-site (n)
-sitting room (n)
-situated (adj)
-situation (n)
-size (n)
-skate (n & v)
-skateboard (n & v)
-skateboarding (n)
-skating (n)
-ski (n & v)
-skiing (n)
-skill (n)
-skin (n)
-skirt (n)
-sky (n)
-sleep (n & v)
-sleeve (n) slice (n)
-slim (adj)
-slip (v)
-slowly (adv)
-small (adj)
-smart (adj)
-smell (n & v)
-smile (n & v)
-smoke (n & v)
-smoking (n)
-smooth (adj)
-snack(n)
-snake (n)
-snow (n & v)
-snowboard (n & v)
-snowboarding (n)
-so (adv & conj)
-soap (n)
-soap opera (n)
-soccer (n)
-sociable (adj)
-social (adj)
-society (n)
-sock (n)
-sofa (n)
-soft (adj)
-software (n)
-soldier (n)
-solution (n)
-solve (n)
-some (det & pron)
-somebody (pron)
-somehow (adv)
-someone (pron)
-something (pron)
-sometimes (adv)
-somewhere (adv)
-son (n)
-song (n)
-soon (adv)
-sore (adj)
-sorry (adj)
-sort (n)
-so-so (adj)
-soul (n)
-sound (n & v)
-soup (n)
+shave
+she
+sheep
+sheet
+shelf
+shine
+shiny
+ship
+shirt
+shock
+shocked
+shocking
+shoe
+shoot
+shop
+shop assistant
+shopping
+shore
+short
+shortly
+shorts
+should
+shoulder
+shout
+show
+shower
+shut
+shy
+sick
+side
+sight
+sightseeing
+sign
+signal
+signature
+signpost
+silence
+silent
+silk
+silly
+silver
+similar
+simple
+since
+sincerely
+sing
+singer
+singing
+single
+sink
+sir
+sister
+sit
+sit down
+site
+sitting room
+situated
+situation
+size
+skate
+skateboard
+skateboarding
+skating
+ski
+skiing
+skill
+skin
+skirt
+sky
+sleep
+sleeve
+slice
+slim
+slip
+slowly
+small
+smart
+smell
+smile
+smoke
+smoking
+smooth
+snack
+snake
+snow
+snowboard
+snowboarding
+so
+soap
+soap opera
+soccer
+sociable
+social
+society
+sock
+sofa
+soft
+software
+soldier
+solution
+solve
+some
+somebody
+somehow
+someone
+something
+sometimes
+somewhere
+son
+song
+soon
+sore
+sorry
+sort
+so-so
+soul
+sound
+soup
 sour
-south (adj & adv, n)
-southeast (adj & n)
-southern (adj)
-southwest (adj & n)
-souvenir (n)
-space (n)
-spare (adj & v)
-sparkling (adj)
-speak (v)
-speaker (n)
-special (adj)
-spectacular (adj)
-speech (n)
-speed (n)
-spell (v)
-spelling (n)
-spend (v)
-spice (n)
-spicy (adj)
-spill (v)
-spinach (n)
-spite (n)
-split up (phr v)
-boyfriend.
-spoil (v)
-spoon (n)
-sport (n)
-sports centre (n)
-spot (n)
-spy (n)
-square (adj & n)
-squash (n)
-stadium (n)
-staff (n)
-stage (n)
-stairs (n pi)
-stall (n)
-stamp (n)
-stand (v)
-star (n)
-start (n & v)
-station (n)
-statue (n)
-stay (n & v)
-stay behind (phr v)
-steak (n)
-steal (v)
-steep (adj)
-step (n)
-stick (n & v)
-sticky (adj)
-still (adj & adv)
-stir (v)
-stomach (n)
-stomach ache (n)
-stone (n)
-stop (n & v)
-going out. (v)
-store (n)
-storm (n)
-story (n)
-straight (adj & adv)
-a straight road (adj)
-strange (adj)
-stranger (n)
-strawberry (n)
-stream (n)
-street (n)
-stress (n)
-a new job.
-stressed (adj)
-stressful (adj)
-strict (adj)
-strike (n & v)
-stripe (n)
-strong (adj)
-student (n)
-studio (n)
-studies (n pi)
-stuff (n)
-stupid (adj)
-style (n)
-stylish (adj)
-subject (n)
-subtract (v)
-subway (n)
-succeed (v)
-success (n)
-successful(adj)
-such (det)
-sudden(adj)
-suddenly (adv)
-suffer (v)
-sugar (n)
-suggest (v)
-suggestion (n)
-suit (n)
-suitable (adj)
-suitcase (n)
-sum (n)
-sun (n)
-sunbathe (v)
-sunglasses (n pi)
-sunny(adj)
-sunrise (n)
-sunset (n)
-sunshine (n)
-supermarket (n)
-supper (n)
-support (n & v)
-supporter (n)
-suppose (v)
-sure (adj & adv)
-surf (v)
-surfboard (n)
-surfing (n)
-surname (n)
-surprise (n & v)
-surprised (adj)
-surprising (adj)
-surround (v)
-sweater (n)
-sweatshirt (n)
-sweet (adj & n)
-swim (n & v)
-swimmer(n)
-swimming (n)
-swimming costume (n)
-swimming pool (n)
-swimsuit (n)
-switch (n & v)
-system (n)
-table (n)
-table-cloth (n)
-tablet (n)
-table tennis (n)
-take (v)
-takeaway (n)
-take away (v)
-take care of (v)
-take off (phr v)
-take part (in) (v)
-take place (v)
-take up (phr v)
-new hobby.
-talent (n)
-talented (adj)
-talk (n & v)
-talk show (n)
-tall (adj)
-tap (n)
-taste (n & v)
-tasty (adj)
-tax (n)
-taxi (n)
-tea (n)
-teach (v)
-teacher (n)
-teaching (n)
-team (n)
-tear (n & v)
-technique (n)
-technology (n)
-teenager (n)
-telephone (n & v)
-television (TV) (n)
-tell (v)
-temperature(n)
-temporary (adj)
-tennis (n)
-tense (n)
-tent (n)
-term (n)
-terrible (adj)
-terribly (adv)
-terrific (adj)
-terrified (adj)
-test (n & v)
-text (n & v)
-textbook (n)
-text message (n)
-than (conj & prep)
-thank (v)
-thanks (exclam)
-thank you (exclam)
-that (conj,det & pron)
-the (det)
-theatre (n) (Br Eng) (Am Eng:
-theater)
-their (det)
-theirs (pron)
-them (pron)
-themselves (pron)
-then (adv)
-there (adv)
-therefore (adv)
-these (det & pron)
-they (pron)
+south
+southeast
+southern
+southwest
+souvenir
+space
+spare
+sparkling
+speak
+speaker
+special
+spectacular
+speech
+speed
+spell
+spelling
+spend
+spice
+spicy
+spill
+spinach
+spite
+split up
+spoil
+spoon
+sport
+sports centre
+spot
+spy
+square
+squash
+stadium
+staff
+stage
+stairs
+stall
+stamp
+stand
+star
+start
+station
+statue
+stay
+stay behind
+steak
+steal
+steep
+step
+stick
+sticky
+still
+stir
+stomach
+stomach ache
+stone
+stop
+store
+storm
+story
+straight
+strange
+stranger
+strawberry
+stream
+street
+stress
+stressed
+stressful
+strict
+strike
+stripe
+strong
+student
+studio
+studies
+stuff
+stupid
+style
+stylish
+subject
+subtract
+subway
+succeed
+success
+successful
+such
+sudden
+suddenly
+suffer
+sugar
+suggest
+suggestion
+suit
+suitable
+suitcase
+sum
+sun
+sunbathe
+sunglasses
+sunny
+sunrise
+sunset
+sunshine
+supermarket
+supper
+support
+supporter
+suppose
+sure
+surf
+surfboard
+surfing
+surname
+surprise
+surprised
+surprising
+surround
+sweater
+sweatshirt
+sweet
+swim
+swimmer
+swimming
+swimming costume
+swimming pool
+swimsuit
+switch
+system
+table
+table-cloth
+tablet
+table tennis
+take
+takeaway
+take away
+take care of
+take off
+take part
+take place
+take up
+talent
+talented
+talk
+talk show
+tall
+tap
+taste
+tasty
+tax
+taxi
+tea
+teach
+teacher
+teaching
+team
+tear
+technique
+technology
+teenager
+telephone
+television
+TV
+tell
+temperature
+temporary
+tennis
+tense
+tent
+term
+terrible
+terribly
+terrific
+terrified
+test
+text
+textbook
+text message
+than
+thank
+thanks
+thank you
+that
+the
+theatre
+their
+theirs
+them
+themselves
+then
+there
+therefore
+these
+they
 thick (adj)
 thief (n)
 thin (adj)
