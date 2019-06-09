@@ -2638,350 +2638,344 @@ there
 therefore
 these
 they
-thick (adj)
-thief (n)
-thin (adj)
-thing (n)
-think (v)
-thirsty (adj)
-this (det & pron)
-those (det &pron)
-though (conj)
-thought (n)
-something
-thriller (n)
-throat (n)
-through (prep)
-throw (v)
-throw away (phr v)
-thumb (n)
-thunder (n)
-thunderstorm (n)
-tick (n & v)
-ticket (n)
-tidy (adj & v)
-tidy up (phr v)
-tie (n & v)
-tiger (n)
-tight(adj)
-tights (n pi)
-till (conj & prep)
-time (n & v)
-timetable (n)
-tin (n)
-tiny (adj)
-tip (n)
-tired (adj)
-tiring (adj)
-tissue (n)
-title (n)
-to (prep)
-toast (n)
-today (adv & n)
-toe (n)
-together (adv)
-toilet (n)
-tomato (n)
-tomorrow (adv & n)
-tongue (n)
-tonight (adv & n)
-too (adv)
-tooth/teeth (n)
-toothache (n)
-toothbrush (n)
-toothpaste (n)
-top (adj & n)
-topic (n)
-total (adj & n)
-totally (adv)
-touch (v)
-tour (n & v)
-tour guide (n)
-tourism (n)
-tourist (n)
-tourist information centre (n)
-tournament(n)
-toward(s) (prep)
-towel(n)
-tower (n)
-town (n)
-toy (n)
-track (n)
-tracksuit (n)
-trade (n)
-traditional (adj)
-traffic (n)
-traffic jam (n)
-traffic light(s) (n)
-train (n & v)
-trainer (n)
-training (n)
-tram (n)
-transfer (v)
-translate (v)
-translation (n)
-transport (n)
-trash can (n)
-travel(v)
-travel agent (n)
-tree (n)
-trend (n)
-trick (n)
-trip (n)
-trouble (n)
-trousers (n pi)
-truck (Am Eng))
-trunk (n) (Am Eng)
-true (adj)
-trumpet (n)
-trust (v)
-truth (n)
-try (v)
-try on (phr v)
-T-shirt (n)
-tube (n)
-tuna (n)
-tune (n)
-tunnel(n)
-turkey (n)
-turn (n & v)
-turn down (phr v)
-turning (n)
-turn into (phr v)
-turn off (phr v)
-turn on (phr v)
-turn up (phr v)
-twice (adv)
-twin (n)
-type (n & v)
-typical (adj)
-typically (adv)
-tyre (n)
-ugly (adj)
-umbrella (n)
-unable (adj)
-unbelievable (adj)
-uncle (n)
-uncomfortable (adj)
-under (prep)
-¡E under the bed
-¡E under ¢G10.00
-underground (adj & n)
-¡E underground trains (adj)
-¡E to travel by underground (n)
-underline (v)
-underneath (prep)
-underpants (n)
-understand (v)
-underwear (n)
-undress (v)
-unemployed (adj)
-unemployment (n)
-unexpected (adj)
-unfair (adj)
-unfit (adj)
-unforgettable (adj)
-unfortunately (adv)
-unfriendly (adj)
-unhappy (n)
-unhealthy (adj)
-uniform (n)
-union (n)
-unit (n)
-unkind (adj)
-unknown (adj)
-unimportant (adj)
-uninterested (adj)
-uninteresting (adj)
-universe (n)
-university (n)
-unless (conj)
-unlikey (adj)
-unlucky (adj)
-unnecessary (adj)
-unpack (v)
-unpleasant (adj)
-until (prep & conj)
-unusual (adv)
-unwell (adj)
-up (adv & prep)
-update (n & v)
-upload (n)
-upon (prep)
-upper (adj)
-upset (adj)
-upstairs (adj & adv)
-up to (prep phr)
-urgent (adj)
-urgently (adv)
-us (pron)
-use (n & v)
-useful (adj)
-user (n)
-usual (adj)
-usually (adv)
+thick
+thief
+thin
+thing
+think
+thirsty
+this
+those
+though
+thought
+thriller
+throat
+through
+throw
+throw away
+thumb
+thunder
+thunderstorm
+tick
+ticket
+tidy
+tidy up
+tie
+tiger
+tight
+tights
+till
+time
+timetable
+tin
+tiny
+tip
+tired
+tiring
+tissue
+title
+to
+toast
+today
+toe
+together
+toilet
+tomato
+tomorrow
+tongue
+tonight
+too
+tooth
+teeth
+toothache
+toothbrush
+toothpaste
+top
+topic
+total
+totally
+touch
+tour
+tour guide
+tourism
+tourist
+tourist information centre
+tournament
+toward
+towel
+tower
+town
+toy
+track
+tracksuit
+trade
+traditional
+traffic
+traffic jam
+traffic light
+train
+trainer
+training
+tram
+transfer
+translate
+translation
+transport
+trash can
+travel
+travel agent
+tree
+trend
+trick
+trip
+trouble
+trousers
+truck
+trunk
+true
+trumpet
+trust
+truth
+try
+try on
+T-shirt
+tube
+tuna
+tune
+tunnel
+turkey
+turn
+turn down
+turning
+turn into
+turn off
+turn on
+twice
+twin
+type
+typical
+typically
+tyre
+ugly
+umbrella
+unable
+unbelievable
+uncle
+uncomfortable
+under
+underground
+underline
+underneath
+underpants
+understand
+underwear
+undress
+unemployed
+unemployment
+unexpected
+unfair
+unfit
+unforgettable
+unfortunately
+unfriendly
+unhappy
+unhealthy
+uniform
+union
+unit
+unkind
+unknown
+unimportant
+uninterested
+uninteresting
+universe
+university
+unless
+unlikey
+unlucky
+unnecessary
+unpack
+unpleasant
+until
+unusual
+unwell
+up
+update
+upload
+upon
+upper
+upset
+upstairs
+up to
+urgent
+urgently
+us
+use
+useful
+user
+usual
+usually
 versus
-valley (n)
-valuable (adj)
-value (n)
-van (n)
-vanilla (n)
-variety (n)
-various (adj)
-vase (n)
-vegetable (n)
-vegetarian (n & adj)
-vehicle (n)
-very (adv)
-vet (n)
-via (prep)
-video (n & v)
-video clip (n)
-video game (n)
-view (n)
-village (n)
-violin (n)
-virus (n)
-visa (n)
-visit (n & v)
-visitor (n)
-vocabulary (n)
-voice (n)
-volleyball(n)
-volume (n)
-vote (n & v)
-vowel (n)
-wage(s) (n)
-wait (n & v)
-waiter (n)
-waiting room (n)
-waitress (n)
-wake (v)
-wake up (phr v)
-walk (n & v)
-walking (n)
-wall (n)
-wallet (n)
-want (v)
-war (n)
-wardrobe (n)
-warm (adj)
-warn (v)
-warning (n)
-wash (n & v)
-wash up (phr v)
-washing machine (n)
-washing-up (n)
-waste (adj & v)
-watch (n & v)
-water (n & v)
-waterfall (n)
-wave (n & v)
-way (n)
-we (pron)
-weak (adj)
-wear out (phr v & adj)
-weather (n)
-weather forecast (n)
-web (n)
-webcam (n)
-web page (n)
-website (n)
-wedding (n)
-week (n)
-weekday (n)
-weekend (n)
-weekly (adj & adv)
-weigh (v)
-weight (n)
-welcome (n & v)
-well (adj, adv & exclam)
-well done! (adv)
-well-dressed (adj)
-well-known (adj)
-west (adj, adv & n)
-western (adj)
-wet (adj)
-whale (n)
-what (det & pron)
-whatever (pron & det)
-wheel (n)
-wheelchair (n)
-when (adv)
-whenever (conj)
-where (adv & conj)
-wherever (conj)
-whether (conj)
-which (pron & det)
-while, whilst (conj)
-white (adj)
-who (pron)
-whole (adj & n)
-whose (det & pron)
-why (adv)
-wide (adj)
-wife (n)
-wild (adj)
-wildlife (n)
-will (mv)
-willing (adj)
-win (v)
-wind (n)
-window (n)
-windscreen (n)
-windsurfing (n)
+valley
+valuable
+value
+van
+vanilla
+variety
+various
+vase
+vegetable
+vegetarian
+vehicle
+very
+vet
+via
+video
+video clip
+video game
+view
+village
+violin
+virus
+visa
+visit
+visitor
+vocabulary
+voice
+volleyball
+volume
+vote
+vowel
+wage
+wait
+waiter
+waiting room
+waitress
+wake
+wake up
+walk
+walking
+wall
+wallet
+want
+war
+wardrobe
+warm
+warn
+warning
+wash
+wash up
+washing machine
+washing-up
+waste
+watch
+water
+waterfall
+wave
+way
+we
+weak
+wear out
+weather
+weather forecast
+web
+webcam
+web page
+website
+wedding
+week
+weekday
+weekend
+weekly
+weigh
+weight
+welcome
+well
+well-known
+west
+western
+wet
+whale
+what
+whatever
+wheel
+wheelchair
+when
+whenever
+where
+wherever
+whether
+which
+while
+whilst
+white
+who
+whole
+whose
+why
+wide
+wife
+wild
+wildlife
+will
+willing
+win
+wind
+window
+windscreen
+windsurfing
 wing
-windy (n)
+windy
 winner
-wise (adj)
-wish (n & v)
-with (prep)
-within (prep)
-without (prep)
-woman (n)
-wonder (v)
-wonderful(adj)
-wood (n)
-wooden (adj)
-wool (n)
-word (n)
-work (n & v)
-worker (n)
-working (adj)
-workout (n)
-work out (phr v)
-world (n)
-worried (adj)
-worry (n & v)
-worse (adj & adv)
-worst (adj & adv)
-worth (adj)
-would (mv)
-wow (exclam)
-wrap (up) (v & phr v)
-write (v)
-write down (phr v)
-writer (n)
-writing (n)
-written (adj)
-wrong (adj)
-yard (n)
-yeah (exclam)
-year (n)
-yellow (adj)
-yes (adv)
-yesterday (adv)
-yet (adv)
-yoga (n)
-yoghurt (n)
-you (pron)
-you know (exclam)
-young (adj)
-your (det)
-yours (pron)
-yourself (pron)
-youth (n)
-zebra (n)
-zero (n)
-zone (n)
-zoo (n)
+wise
+wish
+with
+within
+without
+woman
+wonder
+wonderful
+wood
+wooden
+wool
+word
+work
+worker
+working
+workout
+work out
+world
+worried
+worry
+worse
+worst
+worth
+would
+wow
+wrap
+write
+write down
+writer
+writing
+written
+wrong
+yard
+yeah
+year
+yellow
+yes
+yesterday
+yet
+yoga
+yoghurt
+you
+you know
+young
+your
+yours
+yourself
+youth
+zebra
+zero
+zone
+zoo
