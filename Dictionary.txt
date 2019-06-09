@@ -86,6 +86,7 @@ also
 although 
 altogether 
 always
+am
 a.m 
 amazed 
 amazing 
@@ -133,7 +134,8 @@ appointment
 approach 
 approve 
 architect 
-architecture 
+architecture
+are
 area 
 argue 
 argument 
